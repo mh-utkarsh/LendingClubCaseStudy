@@ -10,7 +10,7 @@
 
 
 ## General Information
-- Project Information: This is a Case-study Project on Data Analysis. This case study aims to give an idea about how real business problems are solved using EDA. In this case study, We are working with the loan application data from a big lending company.
+- Project Information: This is a Case-study Project on Exploratory Data Analysis. This case study aims to give an idea about how real business problems are solved using EDA. In this case study, We are working with the loan application data from a big lending company.
 
 - Project Background: The lending company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface. 
 
