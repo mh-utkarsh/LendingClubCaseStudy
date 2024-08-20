@@ -50,9 +50,6 @@
 
 ## Acknowledgements
 - This project was inspired by UpGrad IITB Programme as a case study for the Machine Learning and Artificial Intelligence course.
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
 
 ## Contact
 Created by [@githubusername] - feel free to contact me!
